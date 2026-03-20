@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  background: #060612;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.chat-page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: #060612;
+}
+
+.chat-layout {
+  flex: 1;
+  display: flex;
+  overflow: hidden;
+  min-height: 0;
+}
